@@ -1,0 +1,10 @@
+{
+	"name": "firebase",
+	"url": "https://github.com/superpowers04/linc_luajit",
+	"license": "MIT",
+	"tags": [],
+	"description": "Haxe bindings for firebase",
+	"version": "0.0.1",
+	"releasenote": "",
+	"contributors": ["Mikolka9144"]
+}

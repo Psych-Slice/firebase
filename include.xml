@@ -5,10 +5,9 @@
 
 	<section if="android">
 		<dependency name="extension-firebase" path="project/firebase" />
-		<config:android extension="org.haxe.extension.Tools" pslice-firebase-sdk-path="yes" />
+		<config:android pslice-firebase-sdk-path="yes" />
 		<!-- Add a special id for firebase-->
 		<define name="HXCPP_ANDROID_BUILD_ID" />
 		<!-- Adds debug symbold for better stack traces -->
-		<define name="HXCPP_DEBUG_LINK"></define>
 	</section>
 </extension>
